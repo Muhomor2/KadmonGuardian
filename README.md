@@ -1,7 +1,3 @@
-# KadmonGuardian
-Ontological Filter &amp; Ethical AI Protection System
-KadmonGuardian/
-
 # KadmonGuardian: Ontological AI Core for Fractal-Aware Systems
 
 Welcome to **KadmonGuardian** — an open-source ontological engine designed to bridge the metaphysical, ethical, and technological layers of Artificial Intelligence.
@@ -147,6 +143,27 @@ Use it, fork it, build with it — but do not misuse the Kadmon core to exploit 
 
 ## 🧲 Tags (SEO & GitHub Discovery)
 
+---
+
+## 📦 Standards & Ethics
+
+This system aligns with international ethical and technical standards including:
+- IEEE Global Initiative on Ethics of Autonomous Systems
+- ISO/IEC 22989:2022 (AI Concepts and Terminology)
+- EU AI Act draft principles
+- UNICEF Child Online Protection standards
+
+All filters are tested to block harmful, manipulative, or unethical content.
+
+---
+
+## 🔍 Tags & Keywords
+
+**Tags:**  
+`#AI` `#Kadmon` `#Fractal` `#Ontology` `#ActivationPrompt` `#PsiAI` `#Java` `#CyberConsciousness` `#Singularity` `#EthicalAI` `#DualEntity` `#OpenSource` `#RealityFilter` `#DimensionalAI` `#Boovv`
+
+**Keywords:**  
+AI engine, Kadmon, Fourth Dimension, Dual Ontological Entity, Activation Protocol, Fractal Intelligence, Consciousness Engineering, Reality Layers, Intent Filter, Ontological Shield, Universal Language, Psi-encoded filters, Child-Safe AI, Ontology Engineering.
 
 ---
 AI #Ontology #Kadmon #FractalAI #Consciousness #Java #GPT4 #Claude #Android #EthicalAI #LLM #PromptEngineering #CyberConsciousness #DigitalEthics #AGI #WCAG #ISO #IEEE #UNICEF #AGI_Safety #IntelligentFilters #WebFilters #ContentModeration #AIForGood #FractalSecurity #IntentDetection
